@@ -1,2 +1,2 @@
 # signals
-Signals and Systems Phyton Lab
+Signals and Systems Python Lab
